@@ -1,0 +1,465 @@
+458
+00031Brittany            A   f000000030901985
+00061Cheryl Darrel       A   f004560034401960
+00065Christina Darcel    A   f004560034401962
+00099Denise              A   f004560034401970
+00247Kevin Wesley        A   m004560034401964
+00358Richard Daniel      A   m000000000001940
+00359Richard Daniel (Jr.)A   m003580042201959
+00416Tamara Jean         A   f004560034401959
+00437Tricha              A   f004560034401966
+00456William Floyd       A   m000000000001937
+00354Rebecca Lee         A   f000000000001966
+00064Cheryl Lynn         B   f000920015001962
+00092David Lee           B   m000000000001939
+00138Gary Dean           B   m000920015001961
+00419Terry Jean          B   m000920015001963
+00306Matthew Shane       B   m000000000001970
+00041Carla Rae           B   f001830029701943
+00180James Lee           B   m001830029701938
+00183James Robert        B   m000000000001914
+00089David Allen         B   m000000000001963
+00225Jonathan Lee        B   m000890043701982
+00289Marilyn Mae         B   f000000000001954
+00085Dallas Rae (Sally)  B   f000000000001917
+00363Richard Leon        B   m000000000001934
+00097Debra Ann           B   f000000000001952
+00418Teresa Dawn         B   f000000000001951
+00251Kyle Edward         B   m000000000001971
+00239Kathy Mary          B   f000000000001948
+00015Anne Cathrine       B   f000580003301963
+00047Carrie Angela       B   f000570035601986
+00054Charles Cody        B   m000570035601988
+00057Charles Raymond     B   m000580003301960
+00058Charles Wayne       B   m000000000001936
+00102Dianna Marie        B   f000580003301962
+00205Jessica Lynn        B   f000570035601985
+00240Keith Withman       B   m000580003301964
+00424Thomas              B   m000580003301966
+00080Cynthia Ann         B   f004600009801965
+00109Donna Jeanne        B   f004600009801969
+00460William Wiley       B   m000000000001945
+00068Christopher Michael B   m003430006501979
+00337Patrick Donald      B   m003430006501982
+00343Paul William        B   m000000000001959
+00238Kathlene            B   f000000000001938
+00034Candice Ann         B   f000000000001953
+00300Mary Arlene         B   f000000000001944
+00044Carolyn Rita        C   f003550005101959
+00355Reece               C   m000000000001921
+00445Victoria Ann        C   f000000000001970
+00011Ann Marie           C   f002030011001964
+00173Jack LaVerne        C   m000000000001923
+00203Jerry Dean          C   m001730044701944
+00314Michelle Lynn       C   f002030011001971
+00405Stephan Dean        C   m002030011001966
+00007Aimee May           C   f000000000001923
+00052Cathy Ann           C   f000000000001950
+00071Clayton Francis     C   m000000000001913
+00125Ellyn Taylor        C   f000000028101991
+00336Patrick Charles     C   m000000028101987
+00440Troy Lee            C   m000000000001938
+00303Mary Lee            D   f000000000001947
+00182James Otis          D   m000000000001927
+00268Lois Ann            D   f003630012701974
+00345Peter James         D   m003630012701969
+00435Tracy Marie         D   f003630012701965
+00164Helen Loretta       D   f000000000001918
+00128Emmett Ian          D   m000000000001912
+00335Patricia Marie      D   f000000000001941
+00106Donald Martin       D   m000000000001939
+00241Kellie Lynn         D   f001060026501965
+00063Cheryl Louise       D   f000000000001947
+00317Minnie Mae          E   f000000000001889
+00009Angela Sue          E   f000000000001966
+00118Edward Wayne        E   m000000000001941
+00130Erika               E   f001180038801970
+00084Dallas Craig        E   m000000000001951
+00168Hilory Estelean     E   f001740023401979
+00282Malcolm Jeryl       F   m000000000001939
+00439Troy Lane           F   m002820026301968
+00119Elaine Lisa         F   f000000000001950
+00090David Lee           F   m000000000001948
+00194Jeffery Allen       F   m000900044201968
+00207Jody Lue            F   f000900044201969
+00446Violet Jean (Tootie)F   f000000000001923
+00120Elizabeth Anne      F   f002080044301955
+00208John Adam           F   m000000000001920
+00210John David          F   m002080044301959
+00364Richard Miller      F   m002080044301951
+00313Michel Daniel       G   m000000000001967
+00325Nicholas Michale    G   m003130039401989
+00078Crystal Gayle       G   f000000014001983
+00390Sarah Allison       G   f000000014001986
+00206Jewel Elizabeth     G   f000000000001941
+00327Nita Lucille        G   f000000000001941
+00019April Renee         H   f004060009701971
+00028Betty Marie         H   f002570001301944
+00042Carol Ann           H   f000560023801967
+00045Carolyn Sue         H   f001690014701947
+00050Cassandra Ann       H   f004520031801984
+00051Catherine Elizabeth H   f002990029501918
+00055Charles Edward      H   m002130031701919
+00056Charles Edward (Jr) H   m000550001401938
+00060Cheryl Ann          H   f001150015301950
+00082Cynthia Marie       H   f001700033401963
+00088David Allen         H   m001320002701969
+00093Dawn Allison        H   f002700032701963
+00113Edith Helen         H   f002750022801914
+00115Edmund Laurence     H   m002990029501920
+00116Edna Lucille        H   f002990029501925
+00122Elizabeth Marie     H   f002530028401899
+00123Elizabeth Marjorie  H   f002990029501923
+00131Evelyn Marie        H   f002750022801919
+00132Francis Edward      H   m002750022801928
+00135Frank Lyn           H   m002700032701960
+00160Harry Robert (Bob)  H   m001320002701956
+00165Helena Katrina      H   f002530028401898
+00166Herman              H   m002530028401897
+00167Hermena             H   f002530028401907
+00170Homer Dwayne (Hop)  H   m001690014701944
+00169Homer               H   m002750022801917
+00175Jackie Alan         H   m002610044601950
+00176James Alan          H   m000560023801959
+00178James Anthony       H   m001700033401966
+00185Janet Jean          H   f002570001301955
+00187Jason Allen         H   m001810039201974
+00196Jeffery Scott       H   m001700033401969
+00204Jerry Leigh         H   m002610044601944
+00213John J.             H   m002530028401889
+00217John Laurence       H   m002220000701947
+00222John William        H   m002130031701920
+00226Joseph Rubert       H   m002750022801924
+00235Karen Marie         H   f002040030001965
+00252Lambert Phillip     H   m002130031701916
+00253Lambertus Lawrence  H   m000000000001861
+00257Lawrence Lambert    H   m002750022801915
+00261Leo John            H   m002750022801923
+00263Linda Dian          H   f002220000701946
+00264Linda Mae           H   f002570001301948
+00270Lonnie Lee          H   m001690014701941
+00271Lonnie Lee Jr.      H   m002700032701961
+00276Louis Francis       H   m002130031701922
+00275Louis               H   m002530028401887
+00287Marie Elizabeth     H   f002130031701914
+00290Marion (Manus)      H   m002530028401893
+00291Mark Alan           H   m002040030001970
+00295Martha Eva          H   f002530028401896
+00296Martha Lillian      H   f002130031701915
+00299Martin John         H   m000000000001888
+00304Mary Magdalene      H   f002750022801920
+00305Mary Martha         H   f002530028401890
+00312Michael Wayne       H   m004480034001971
+00316Mildred E.          H   f002750022801912
+00323Nellie Cathrine     H   f002530028401902
+00332Patricia Ann        H   f001260011301932
+00344Peggy               H   f001690014701942
+00380Rubert Joseph       H   m002750022801926
+00383Ruth Martha         H   f002750022801921
+00386Sally Jean          H   f002610044601948
+00387Sandra Kay          H   f002220000701949
+00392Scherrie Lynn       H   f000550001401954
+00395Sharon Marie        H   f001150015301950
+00402Shirley Lynn        H   f002700032701959
+00406Steven Eugene       H   m001320002701952
+00413Susan Lynn          H   f002040030001967
+00414Susan Renee         H   f000560023801971
+00422Theresa Ann         H   f002570001301941
+00427Thomas Michael      H   m002610044601952
+00428Thomas William      H   m004520031801988
+00431Timothy Duane       H   m001700033401965
+00438Troy Allen          H   m002700032701964
+00442Valli Lou (Dolly)   H   f001690014701949
+00444Veronica Maria      H   f004520031801989
+00448Wayne John          H   m000550001401941
+00452William Carnie      H   m000550001401951
+00274Lori Lue            H   f003700004501963
+00269Lois Maryann        H   f000000000001950
+00329Orville Lockhart    H   m000000000001922
+00159Harry Robert        H   m000000000001904
+00310Michael Bruce       H   m000000000001961
+00014Anna Pauline        H   f000000000001918
+00461Wilma Lee           H   f000000000001943
+00094Deanna Marie        H   f003100039601987
+00259Leanne Hammons      H   f003100039601981
+00349Randy Dale          H   m000000000001961
+00062Cheryl Lee          H   f000000000001954
+00350Randy James         H   m004360004401977
+00436Tray Lee            H   m000000000001959
+00328Norma Jean          H   f000000000001951
+00043Carol Kay           H   f000790028701944
+00079Curtis Marion       H   m000000000001909
+00149Glenda Gene         H   f000790028701943
+00319Nancy Marie         H   f000790028701940
+00193Jeffery             H   m000000000001965
+00023Barbara             H   f000000000001925
+00412Susan Lynette       H   f000000000001947
+00179James Arthur        J   m000000000001967
+00153Grace Marie Eva     J   f000000000001921
+00069Christopher Nathan  J   m003220001501990
+00083Dale Eugene         J   m001570038301951
+00098Delara Rose         J   f001570038301946
+00157Harold Eugene       J   m000000000001919
+00315Michelle Nicole     J   m003220001501982
+00322Neil Scott          J   m000000000001962
+00368Robert Lee          J   m000000000001936
+00133Francis Theodore    K   m000000000001891
+00230Judith Margaret     L   f000000000001941
+00272Lorenzo             L   m000000000001956
+00397Shawna Renee        L   f004360004401982
+00407Steven Keith        L   m004360004401981
+00434Tonya Lynn          L   f004360004401984
+00334Patricia Marie      L   f000000000001944
+00278Louise (Sally)      L   f000000000001952
+00400Shirley Diane       L   f000000000001969
+00285Maria Juanita       L   f000000000001969
+00150Glenda Jean         L   f001510030401942
+00151Glenn Allen         L   m000000000001920
+00177James Allen         L   m001510030401940
+00195Jeffery Scott       L   m001770040101967
+00227Joseph Ryan         L   m000000023501989
+00229Joyce Elaine        L   f001510030401944
+00283Marcella Allene     L   f001770040101965
+00301Mary Frances        L   f001510030401948
+00458William Joseph      L   m001510030401960
+00108Donna Jean          M   f000000000001946
+00021Ashley Lynn         M   f000380001701986
+00038Carl Lloyd          M   m000000000001958
+00048Carrie Ann          M   f000380001701988
+00152Glenn Wesley        M   m000000000001929
+00184Janet Ann           M   f001520034701960
+00190Jay Michell         M   m001520034701956
+00191Jeanna Marie        M   f001520034701955
+00192Jeanne Marie        M   f001520034701968
+00231Julie Ann           M   f001520034701965
+00242Kelly Edward        M   m001520034701958
+00246Kevin Michael       M   m001520034701958
+00339Patrick Ryan        M   m001520034701954
+00010Anita Lynn          M   f000000000001948
+00027Betty Lou           M   f000000000001931
+00026Betty Jane          M   f000000000001927
+00141Gayla Lee           M   f000000000001938
+00399Shirley Ann         M   f000000000001937
+00005Adam Eugene         M   m000000012001987
+00008Alta Maureen        M   f003520012201924
+00033Camilla Joyce       M   f003520012201938
+00073Clifford Ray        M   m000000000001947
+00096Deborah Lynn        M   f000000000001955
+00127Emily Jane          M   f003520012201934
+00340Patty Jo            M   f000000000001942
+00352Raymond             M   m000000000001894
+00391Sarah Elizabeth     M   f000000012001982
+00423Theresa Sandy       M   f000730038701968
+00443Verna Deane         M   f003520012201926
+00016Anne Elizabeth      M   f004260003401981
+00024Barbara Ann         M   f004550012301949
+00201Jennifer Lynn       M   f003770041801971
+00202Jeoffrey Scott      M   m002210037801976
+00221John William        M   m004550012301946
+00250Kristin Marie       M   f002210037801981
+00293Mark Joseph         M   m004260003401978
+00377Ronald Wayne        M   m004550012301948
+00426Thomas Michael      M   m004550012301951
+00430Timeri Jill         M   f003770041801976
+00433Todd Michael        M   m004260003401984
+00455William Emerson     M   m000000000001924
+00267Lisa Renee          M   f004590033301969
+00411Sue Ann             M   f004590033301970
+00459William R.          M   m000000000001949
+00147Gladys Lorene       N   f000000000001922
+00112Duane               N   m002240000001983
+00223Jon                 N   m002240000001989
+00224Jon Richard         N   m002550004101964
+00255Larry Richard       N   m000000000001940
+00309Melissa Rae         N   f002550004101962
+00110Dorothy Belle       O   f000000000001944
+00236Karl                O   m000000000001919
+00298Martin Douglas      P   m000000000001944
+00308Melissa Lynn        P   f001060026501972
+00155Harbert Frank       P   m000000000001904
+00280Lyln Mae            P   f000000033101977
+00351Ranon               P   f000000033101980
+00075Cody Wade           P   m003750035401989
+00219John Roger          P   m000000000001942
+00286Marianne            P   f002190016301962
+00375Roger Bruce         P   m002190016301964
+00396Sharon Sue          P   f002190016301960
+00321Nathan Charles      P   m000000027301992
+00013Anna May            P   f000000000001918
+00248Kimberly Kay        P   f003700004501965
+00370Robert Lowell       P   m000000000001943
+00373Robin Louise        P   f003700004501966
+00022Babbette Rena       P   f003700004501969
+00145Gerald Dean         R   m000000000001934
+00462Wilma Louise        R   f000000000001919
+00401Shirley Jo          R   f000000000001947
+00171Horace Richard      R   m000000000001925
+00324Niccole             R   f004210005201977
+00421Terry Lee           R   m001710011601952
+00284Maria Elisabeth (MarR   f000000000001863
+00181James Michael       R   m000000000001947
+00342Paul George         S   m000000000001919
+00341Paul                S   m003420026001945
+00086Daniel Paul         S   m001340030101969
+00134Frank Edward        S   m000000000001938
+00378Roxann Marie        S   f000000000001948
+00266Lindsay             S   f000000030901980
+00425Thomas Alan         S   m000000000001962
+00198Jeffrey Allen       S   m003710022901964
+00294Mark Robert         S   m003710022901963
+00371Robert Merle        S   m000000000001940
+00457William Gene        S   m000000000001928
+00129Eric Marie          S   m000490006101985
+00154Gregory Tom         S   m000000000001954
+00035Candice Leigh       S   f000000000001947
+00111Dorothy Mae         S   f000000000001924
+00070Christy Ann         S   f003460038601971
+00081Cynthia Lue         S   f003460038601968
+00346Phillip Curtis      S   m000000000001950
+00074Clint Wayne         S   m001990010201985
+00117Edward Lee          S   m000000000001947
+00199Jeffrey Wayne       S   m000000000001985
+00384Ryan Russell        S   m001990010201988
+00072Cletus              S   m000000000001910
+00144Georgia Louise      S   f000000000001920
+00030Brenda Eileen       S   f004540023001960
+00037Carl Eugene (Jr)    S   m000360011101945
+00036Carl Eugene         S   m000530030501923
+00039Carla               S   f000370006301972
+00053Charles (Carl)      S   m000000000001888
+00059Cheryl Ann          S   f003600039901962
+00066Christina Rae       S   f002150010801987
+00087David Allen         S   m003600039901958
+00101Diane               S   f001480000001975
+00121Elizabeth Marie     S   f000530030501910
+00136Frederick Jay (Jr)  S   m001370011901970
+00137Fredrick Jay        S   m000360011101948
+00139Gary Lee            S   m003530002001957
+00140Gayla Ann           S   f003810014601959
+00148Glen Russell        S   m003810014601954
+00156Harold Charles (SkipS   m001580002601947
+00158Harold Joseph       S   m000530030501928
+00162Heidie              S   f003670003501970
+00214John Lambert (I)    S   m000530030501912
+00215John Lambert (II)   S   m002140008501943
+00216John Lambert (III)  S   m002150010801958
+00243Kenneth Arthur      S   m001580002601963
+00245Kevin Charles       S   m001560023901969
+00256Laura Lee           S   f003530002001959
+00262Linda Darlene       S   f003530002001954
+00277Louise Mary         S   f000530030501921
+00297Martha Viola        S   f000530030501914
+00302Mary Jane           S   f003600039901964
+00311Michael Paul        S   m002140008501948
+00331Pamela Mae          S   f000360011101952
+00333Patricia Ann (Penny)S   f001580002601952
+00348Randall Joseph      S   m003600039901960
+00353Raymond Martin      S   m000530030501925
+00360Richard Dewayne (I) S   m000530030501934
+00361Richard Dewayne (II)S   m003600039901957
+00367Robert Charles      S   m003690046201942
+00369Robert Louis        S   m000530030501919
+00372Robin Christine     S   m003670003501968
+00376Ronald Raymond      S   m003530002001956
+00381Russell             S   m000530030501930
+00382Ruth Goldie         S   f000530030501932
+00385Sally Ann           S   f000370006301969
+00388Sandra Lee          S   f003690046201944
+00389Sara Rebecca        S   f002150010801977
+00394Shannon Michelle    S   f002150010801969
+00403Sophia Mitlida      S   f000530030501916
+00404Stacy Louise        S   f000370006301966
+00417Tammy               S   f001480000001973
+00420Terry Lee           S   f004540023001963
+00453William Charles     S   m004540023001962
+00454William Charles     S   m002140008501940
+00046Caron Sue           S   f000000000001947
+00012Anna Marie          S   f003710022901971
+00143George William (Jr) S   m000000000001943
+00362Richard Lee         S   m003710022901968
+00449Wayne Louis         S   m003710022901966
+00020Arline Doris        S   f000000000001932
+00146Gladis Anita        S   f000000000001932
+00212John Harvey         S   m000000000001943
+00218John Michael        S   m002120004301973
+00320Natalie Kay         S   f002120004301968
+00076Collin Andrew       S   m000000000001961
+00374Rodney William      S   m000760028601980
+00018Anthony Dean        S   m000490006101979
+00049Cary Ray            S   m000000000001959
+00244Kenneth William     S   m000490006101977
+00025Barbary Ruth        T   f000000000001925
+00124Elizah Jennings     T   f003660000901992
+00174Jack Rodger         T   m000000000001947
+00188Jason Anthony       T   m001740023401972
+00366Ricky Joe           T   m001740023401965
+00029Brandy Jo           T   f004100041601982
+00077Crystal Ann         T   f004100041601985
+00189Jason Scott         T   m004100041601983
+00200Jennifer Lynn       T   f004100041601979
+00410Stoney Deward       T   m000000000001959
+00095Deborah Lee         T   f002090014101962
+00163Helen Elizabeth     T   f002200040301942
+00197Jeffery Wayne       T   m004500004601964
+00209John Charles        T   m002200040301938
+00220John Wayne          T   m000000000001904
+00233Kara                T   f004500004601975
+00237Karon Elizabeth     T   f004500004601972
+00273Lori Ann            T   f002090014101963
+00281Lynette Sue         T   f002090014101960
+00415Susin Kay           T   f002200040301948
+00450Wayne Robert        T   m002200040301944
+00032Brook Allen         T   m002920001001975
+00040Carla Deanne        T   f002920001001972
+00100Dennis Michael      T   m002790014401950
+00234Karen Kay           T   f002790014401947
+00260Leata Elizabeth     T   f003790032301925
+00265Linda Rae           T   f002790014401943
+00279Lyle Bennet         T   m003790032301921
+00288Marietta            T   f003790032301936
+00292Mark Allen          T   m002790014401945
+00338Patrick Ryan        T   m000000000001981
+00347Ranada Cathrine     T   f003790032301931
+00379Rubert Edward       T   m000000000001899
+00393Shannon Gayle       T   f004510000001960
+00447Wanda Rae           T   f003790032301923
+00451Wesley John Patrick T   m003790032301927
+00186Janet Marie         V   f000000000001952
+00114Edmond Jackson      W   m000000000001937
+00307Megan Kay           W   f004320040001992
+00429Tiffany Rennee      W   f004320040001990
+00432Timothy Lee         W   m001140031901961
+00091David Lee           W   m001420033201954
+00142George              W   m000000000001930
+00172Jack Dale           W   m001420033201952
+00357Richard Alan (Ricky)W   m001420033201951
+00398Sheryl Ann          W   f001420033201955
+00211John David          W   m003650041501973
+00254Lara Kathryn        W   f003650041501977
+00365Richard Valery      W   m000000000001949
+00441Vallery Cassandra   W   f003650041501975
+00126Elmer Emil          W   m000000000001914
+00006Adam Michael        W   m001050000001989
+00017Annette Marie       W   f001040025801966
+00067Christopher David   W   m001030032801970
+00103Donald Dean         W   m003300027701945
+00105Donald Lee (Jr)     W   m001040025801968
+00104Donald Lee          W   m000000000001948
+00161Heather Marie       W   f001030032801977
+00232Justin David        W   m000670000001989
+00249Kimberly Michelle   W   f004080006201973
+00258Leah Lynn           W   f003300027701949
+00330Owen Weseley        W   m000000000001909
+00356Rhonda Michelle     W   f000000000001961
+00408Steven Owen         W   m003300027701952
+00409Steven Scott        W   m004080006201979
+00107Donald Stuart (III) W   m000000000001967
+00326Nicholas Stuart     W   m001070004201995
+00228Josephine Elizabeth Z   f000000000001890
+00318Nancy Ann           Z   f000000000001953
+228
+205
+43
+70
+451
+
